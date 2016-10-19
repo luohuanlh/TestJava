@@ -6,6 +6,5 @@ public class TestHelloWorld {
         System.out.println("你好IDEA");
         System.out.println("你好IDEA");
         System.out.println("你好IDEA");
-        System.out.println("你好IDEA");
     }
 }
